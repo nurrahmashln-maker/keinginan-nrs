@@ -1,0 +1,7 @@
+KEINGINAN USAHA NRS
+
+- buat toko atk
+- buat produk parfum
+  * harum lavender
+  * harum aloevera
+- buat butik
