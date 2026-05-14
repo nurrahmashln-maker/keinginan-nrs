@@ -1,6 +1,8 @@
 KEINGINAN USAHA NRS
 
 - buat toko atk
+ * buku
+ * pulpen
 - buat salon
 - buat produk parfum
   * harum lavender
