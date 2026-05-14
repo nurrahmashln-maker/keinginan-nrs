@@ -1,7 +1,7 @@
 KEINGINAN USAHA NRS
 
 - buat toko atk
-- buat salon
+- buat salon dan spa
  * pijat
 - buat produk parfum
   * harum lavender
